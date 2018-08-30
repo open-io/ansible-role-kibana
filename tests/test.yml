@@ -13,6 +13,3 @@
 
   roles:
     - role_under_test
-  vars:
-    kibana_plugins:
-      - plugin: x-pack
